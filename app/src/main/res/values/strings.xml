@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IocDemo</string>
+    <string name="ioc_hint">"IOC显示"</string>
+</resources>
